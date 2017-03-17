@@ -1,4 +1,4 @@
-# college_basketball_emoji
+# college_basketball_emoji_pack
 Logo's of all of the NCAA March Madness Teams to upload to Slack or another app as an emoji to show your team spirit!
 
 All logo's are sized to a max width or height of 128px to be able to be uploaded to slack. 
